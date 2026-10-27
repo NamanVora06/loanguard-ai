@@ -1,0 +1,140 @@
+[
+  {
+    "feature":"PAY_0",
+    "importance":0.3261193555,
+    "importance_pct":32.61,
+    "description":"Repayment Status in Sept (-2=No consumption, -1=Paid in full, 0=Revolving, 1-8=Months delay)"
+  },
+  {
+    "feature":"PAY_2",
+    "importance":0.1965111495,
+    "importance_pct":19.65,
+    "description":"Repayment Status in Aug (-2=No consumption, -1=Paid in full, 0=Revolving, 1-8=Months delay)"
+  },
+  {
+    "feature":"PAY_3",
+    "importance":0.0933431372,
+    "importance_pct":9.33,
+    "description":"Repayment Status in July (-2=No consumption, -1=Paid in full, 0=Revolving, 1-8=Months delay)"
+  },
+  {
+    "feature":"PAY_5",
+    "importance":0.0669749602,
+    "importance_pct":6.7,
+    "description":"Repayment Status in May (-2=No consumption, -1=Paid in full, 0=Revolving, 1-8=Months delay)"
+  },
+  {
+    "feature":"PAY_AMT1",
+    "importance":0.0471493975,
+    "importance_pct":4.71,
+    "description":"Amount Paid in Sept (NT$)"
+  },
+  {
+    "feature":"PAY_AMT2",
+    "importance":0.0422259464,
+    "importance_pct":4.22,
+    "description":"Amount Paid in Aug (NT$)"
+  },
+  {
+    "feature":"BILL_AMT4",
+    "importance":0.0387955967,
+    "importance_pct":3.88,
+    "description":"Bill Statement Amount in June (NT$)"
+  },
+  {
+    "feature":"PAY_AMT3",
+    "importance":0.0308510887,
+    "importance_pct":3.09,
+    "description":"Amount Paid in July (NT$)"
+  },
+  {
+    "feature":"PAY_6",
+    "importance":0.0306389056,
+    "importance_pct":3.06,
+    "description":"Repayment Status in April (-2=No consumption, -1=Paid in full, 0=Revolving, 1-8=Months delay)"
+  },
+  {
+    "feature":"BILL_AMT3",
+    "importance":0.0214535763,
+    "importance_pct":2.15,
+    "description":"Bill Statement Amount in July (NT$)"
+  },
+  {
+    "feature":"PAY_AMT4",
+    "importance":0.0200905358,
+    "importance_pct":2.01,
+    "description":"Amount Paid in June (NT$)"
+  },
+  {
+    "feature":"BILL_AMT6",
+    "importance":0.0179979981,
+    "importance_pct":1.8,
+    "description":"Bill Statement Amount in April (NT$)"
+  },
+  {
+    "feature":"BILL_AMT5",
+    "importance":0.0154794913,
+    "importance_pct":1.55,
+    "description":"Bill Statement Amount in May (NT$)"
+  },
+  {
+    "feature":"PAY_4",
+    "importance":0.0115430872,
+    "importance_pct":1.15,
+    "description":"Repayment Status in June (-2=No consumption, -1=Paid in full, 0=Revolving, 1-8=Months delay)"
+  },
+  {
+    "feature":"LIMIT_BAL",
+    "importance":0.0075098458,
+    "importance_pct":0.75,
+    "description":"Amount of given credit \/ Credit Limit (NT$)"
+  },
+  {
+    "feature":"PAY_AMT6",
+    "importance":0.0066687961,
+    "importance_pct":0.67,
+    "description":"Amount Paid in April (NT$)"
+  },
+  {
+    "feature":"BILL_AMT2",
+    "importance":0.0062996686,
+    "importance_pct":0.63,
+    "description":"Bill Statement Amount in Aug (NT$)"
+  },
+  {
+    "feature":"MARRIAGE",
+    "importance":0.0057060278,
+    "importance_pct":0.57,
+    "description":"Marital Status (1 = Married, 2 = Single, 3 = Others)"
+  },
+  {
+    "feature":"EDUCATION",
+    "importance":0.0056605779,
+    "importance_pct":0.57,
+    "description":"Education Level (1 = Grad School, 2 = University, 3 = High School, 4 = Others)"
+  },
+  {
+    "feature":"SEX",
+    "importance":0.004949682,
+    "importance_pct":0.49,
+    "description":"Gender (1 = Male, 2 = Female)"
+  },
+  {
+    "feature":"PAY_AMT5",
+    "importance":0.002326014,
+    "importance_pct":0.23,
+    "description":"Amount Paid in May (NT$)"
+  },
+  {
+    "feature":"BILL_AMT1",
+    "importance":0.001129182,
+    "importance_pct":0.11,
+    "description":"Bill Statement Amount in Sept (NT$)"
+  },
+  {
+    "feature":"AGE",
+    "importance":0.0005759797,
+    "importance_pct":0.06,
+    "description":"Age of Applicant (Years)"
+  }
+]
